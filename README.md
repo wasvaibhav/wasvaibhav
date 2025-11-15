@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Vaibhav Kaira</h1>
-<h3 align="center">Backend Developer • AI Enthusiast • <!--Cybersecurity Learner--></h3>
+<h1 align="center">👋 Hi, I'm <span style="color:#58a6ff">Vaibhav Kaira</span></h1>
+<h3 align="center">Backend Developer • AI Enthusiast • Cybersecurity Learner</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner1.gif" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wasvaibhav&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -7,13 +11,32 @@
 
 ---
 
+## 🏅 Badges
+
+<p align="center">
+
+<img src="https://img.shields.io/github/followers/wasvaibhav?label=Followers&style=for-the-badge&color=blue" />
+<img src="https://img.shields.io/github/stars/wasvaibhav?label=Stars&style=for-the-badge&color=yellow" />
+
+<img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-Developer-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-Advanced-orange?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Cybersecurity-Learner-red?style=for-the-badge&logo=hackaday&logoColor=white" />
+
+<a href="https://www.linkedin.com/in/vaibhavkaira"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+<a href="mailto:vaibhavkaira987@gmail.com"><img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail" /></a>
+
+</p>
+
+---
+
 ## 🚀 About Me
 
-- 🔭 Working on **AI Reply Engine**, **Secure Chat App**, & **IoT Projects**
-- 🌱 Learning **FastAPI, System Design, DSA, Networking, Cybersecurity**
-- 🧑‍💻 Comfortable with **Kali Linux**, Bash, and Linux-based development
+- 🔭 Working on **AI Reply Engine**, **Secure Chat App**, and **IoT Automation**
+- 🌱 Learning **FastAPI**, **DSA**, **Networking**, **System Design**
+- 🐧 Comfortable with **Kali Linux**, Bash, Linux Servers
 - ⚙️ Passionate about **Backend + Security Engineering**
-- 📫 Email: **vaibhavkaira987@gmail.com**
+- 📬 Email: **vaibhavkaira987@gmail.com**
 
 ---
 
@@ -21,36 +44,32 @@
 
 ### **Languages**
 ![Python](https://skillicons.dev/icons?i=python)
-![JavaScript](https://skillicons.dev/icons?i=js)
+![JS](https://skillicons.dev/icons?i=js)
 ![C](https://skillicons.dev/icons?i=c)
 ![CPP](https://skillicons.dev/icons?i=cpp)
 
 ### **Backend / Frameworks**
 ![FastAPI](https://skillicons.dev/icons?i=fastapi)
-<!--![Flask](https://skillicons.dev/icons?i=flask)-->
-<!--![NodeJS](https://skillicons.dev/icons?i=nodejs)-->
 
-### **Tools & Platforms**
+### **Tools**
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![Linux](https://skillicons.dev/icons?i=linux)
-![Kali](https://skillicons.dev/icons?i=linux) <!-- for Kali -->
 ![VS Code](https://skillicons.dev/icons?i=vscode)
 ![Postman](https://skillicons.dev/icons?i=postman)
 ![Bash](https://skillicons.dev/icons?i=bash)
 
 ---
 
-## 🔐 Cybersecurity & Linux Skills
-- Kali Linux basic tools (Nmap, Hydra, Wireshark)  
-- Linux file system & permissions  
-- Bash scripting  
-- Network scanning & enumeration  
-- Secure server configuration  
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=wasvaibhav&theme=tokyonight&margin-w=10" />
+</p>
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Analytics
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wasvaibhav&show_icons=true&theme=tokyonight" height="160px"/>
 </p>
@@ -65,41 +84,14 @@
 
 ---
 
-## 🔥 Featured Projects
-
-### 🧠 AI Chat Suggestion Engine  
-- DSA-powered fast suggestions  
-- ML-based auto-reply generation  
-- Backend + CLI tool  
-
-### 📸 ESP32-CAM IoT Project  
-- ESP8266 bridge setup  
-- Live image capture  
-- No USB programming  
-
-### 🖥 FastAPI Backend Projects  
-- REST APIs  
-- JWT Authentication  
-- Database Integration  
-
-### ⚙️ Automation & Tools  
-- Python automation scripts  
-- File managers  
-- Custom CLI utilities  
+## 📈 Activity Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wasvaibhav&theme=tokyo-night" />
+</p>
 
 ---
 
-## 🔗 Connect With Me
+## 🐍 Contribution Snake Animation
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vaibhavkaira)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:vaibhavkaira987@gmail.com)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/wasvaibhav)
-
-
----
-
-<div align="center">
-
-### ⭐ If you like my work, consider giving a **star** to my repositories!
-
-</div>
+```md
+![snake gif](https://github.com/wasvaibhav/wasvaibhav/blob/output/github-contribution-grid-snake.svg)
