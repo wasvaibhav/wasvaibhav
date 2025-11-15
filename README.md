@@ -1,51 +1,57 @@
-<!-- HEADER -->
-<div align="center">
-  
-# 👋 Hi, I'm **Vaibhav Singh Kaira**  
-### Backend Developer • AI Enthusiast • Problem Solver  
-
-Building scalable systems, secure applications, and powerful AI-driven features.
-
-🌍 **India** | 💼 Open to Opportunities  
-</div>
+<h1 align="center">Hi 👋, I'm Rishi Kaira</h1>
+<h3 align="center">Backend Developer • AI Enthusiast • Python Learner</h3>
 
 ---
 
-<!-- BADGES -->
+## 🚀 About Me
+- 🔭 Working on **AI Reply Engine & Secure Chat App**
+- 🌱 Learning **FastAPI, System Design, DSA**
+- 🛠 Building scalable backend systems
+- 📫 Email: your-email@example.com
+
+---
+
+## 🛠 Tech Stack
+
+### Languages  
+![Python](https://skillicons.dev/icons?i=python)
+![JS](https://skillicons.dev/icons?i=js)
+![C](https://skillicons.dev/icons?i=c)
+![CPP](https://skillicons.dev/icons?i=cpp)
+
+### Backend & Tools  
+![FastAPI](https://skillicons.dev/icons?i=fastapi)
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Linux](https://skillicons.dev/icons?i=linux)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+![Postman](https://skillicons.dev/icons?i=postman)
+
+---
+
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wasvaibhav&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
-  <img src="https://img.shields.io/github/followers/wasvaibhav?style=social" alt="followers" />
-  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20AI-blue?style=flat-square" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight" height="150"/>
 </p>
 
 ---
 
-# 🚀 About Me
-
-🔹 Passionate about building **secure backends**, **AI systems**, and **automation tools**  
-🔹 Exploring **FastAPI**,**DSA**, **Advanced Python**  
-🔹 Currently working on:  
-   - 🧠 **AI Chat Suggestion Engine **  
-   - 🔐 **Encrypted Secure Chat App (Python + Sockets)**  
-   - 🤖 **Automation Scripts & IoT Experiments (ESP32-CAM)**  
-🔹 I love solving problems, optimizing workflows, and learning new technologies.  
-
-📫 **Reach me at:** vaibhavkaira987@gmail.com  
+## 🔥 Featured Projects
+- 🔐 **Secure Chat App (E2E Encrypted)**
+- 🧠 **AI Chat Suggestion System**
+- 📸 **ESP32-CAM IoT Projects**
 
 ---
 
-# 🛠️ Tech Stack
+## 🔗 Connect With Me
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](YOUR_LINKEDIN)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:your-email@example.com)
 
-### 💻 **Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,cpp,c" />
-</p>
+---
 
-### ⚙️ **Backend & Frameworks**
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask" />
-</p>
-
-### 🧰 **Tools & Platforms**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux
+⭐ If you like my work, consider giving a **star**!
