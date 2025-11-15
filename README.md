@@ -21,23 +21,11 @@
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <--<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>-->
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/>
 
   <!-- Backend & APIs -->
   <br/>
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-
-  <!-- Styling -->
-  <br/>
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
 
   <!-- Mobile & Tools -->
   <br/>
@@ -46,7 +34,7 @@
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
+  <!--<img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>-->
 
   <!-- Databases & Data -->
   <br/>
@@ -64,11 +52,11 @@
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=AaravAtGit&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wasvaibhav&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" width="60%" />
 
   <br/><br/>
 
-  <img src="https://nirzak-streak-stats.vercel.app/?user=AaravAtGit&theme=tokyonight&hide_border=false" width="60%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=wasvaibhav&theme=tokyonight&hide_border=false" width="60%" />
 
 </div>
 
@@ -78,7 +66,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AaravAtGit&theme=radical&no-frame=false&no-bg=false&margin-w=8"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=wasvaibhav&theme=radical&no-frame=false&no-bg=false&margin-w=8"/>
 </div>
 
 ---
@@ -86,7 +74,7 @@
 ## 📈 Contributions
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AaravAtGit&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wasvaibhav&theme=tokyo-night&hide_border=true"/>
 </div>
 
 ---
