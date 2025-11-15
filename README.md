@@ -23,9 +23,9 @@ Building scalable systems, secure applications, and powerful AI-driven features.
 # 🚀 About Me
 
 🔹 Passionate about building **secure backends**, **AI systems**, and **automation tools**  
-🔹 Exploring **FastAPI**, **System Design**, **DSA**, **Advanced Python**  
+🔹 Exploring **FastAPI**,**DSA**, **Advanced Python**  
 🔹 Currently working on:  
-   - 🧠 **AI Chat Suggestion Engine (DSA-Based)**  
+   - 🧠 **AI Chat Suggestion Engine **  
    - 🔐 **Encrypted Secure Chat App (Python + Sockets)**  
    - 🤖 **Automation Scripts & IoT Experiments (ESP32-CAM)**  
 🔹 I love solving problems, optimizing workflows, and learning new technologies.  
