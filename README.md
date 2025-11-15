@@ -14,9 +14,8 @@
 ## 🏅 Badges
 
 <p align="center">
-
-<img src="https://img.shields.io/github/followers/wasvaibhav?label=Followers&style=for-the-badge&color=blue" />
-<img src="https://img.shields.io/github/stars/wasvaibhav?label=Stars&style=for-the-badge&color=yellow" />
+<!--<img src="https://img.shields.io/github/followers/wasvaibhav?label=Followers&style=for-the-badge&color=blue" />-->
+<!--<img src="https://img.shields.io/github/stars/wasvaibhav?label=Stars&style=for-the-badge&color=yellow" />-->
 
 <img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-Developer-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
@@ -91,7 +90,9 @@
 
 ---
 
-## 🐍 Contribution Snake Animation
+<!--## 🐍 Contribution Snake Animation
 
 ```md
-![snake gif](https://github.com/wasvaibhav/wasvaibhav/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/wasvaibhav/wasvaibhav/blob/output/github-contribution-grid-snake.svg)-->
+
+
