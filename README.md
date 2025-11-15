@@ -13,8 +13,8 @@ Building scalable systems, secure applications, and powerful AI-driven features.
 
 <!-- BADGES -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=social" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=wasvaibhav&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
+  <img src="https://img.shields.io/github/followers/wasvaibhav?style=social" alt="followers" />
   <img src="https://img.shields.io/badge/Focus-Backend%20%26%20AI-blue?style=flat-square" />
 </p>
 
