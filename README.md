@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#58a6ff">Vaibhav Kaira</span></h1>
-<h3 align="center">Backend Developer • AI Enthusiast • Cybersecurity Learner</h3>
+<h3 align="center">Backend Developer • AI Enthusiast • <!--Cybersecurity Learner--></h3>
 
 <!--<p align="center">
   <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner1.gif" width="100%" />
@@ -14,12 +14,12 @@
 ## 🏅 Badges
 
 <p align="center">
-<!--<img src="https://img.shields.io/github/followers/wasvaibhav?label=Followers&style=for-the-badge&color=blue" />-->
-<!--<img src="https://img.shields.io/github/stars/wasvaibhav?label=Stars&style=for-the-badge&color=yellow" />-->
 <img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-Developer-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-Advanced-orange?style=for-the-badge&logo=linux&logoColor=white" />
 <img src="https://img.shields.io/badge/Cybersecurity-Learner-red?style=for-the-badge&logo=hackaday&logoColor=white" />
+<!--<img src="https://img.shields.io/github/followers/wasvaibhav?label=Followers&style=for-the-badge&color=blue" />-->
+<!--<img src="https://img.shields.io/github/stars/wasvaibhav?label=Stars&style=for-the-badge&color=yellow" />-->
 
 <a href="https://www.linkedin.com/in/vaibhavkaira"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
 <a href="mailto:vaibhavkaira987@gmail.com"><img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail" /></a>
