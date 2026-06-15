@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Kaira</h1>
 
 <h3 align="center">Python Developer | AI & Backend Enthusiast</h3>
-
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d8bb218b-be9e-4f93-be2d-5a1968a696e0" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <p align="center">
   I specialize in <strong>Python</strong> and love building efficient, real-world solutions.
 </p>
