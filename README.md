@@ -49,12 +49,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=wasvaibhav&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=wasvaibhav&theme=tokyonight&hide_border=true" width="48%" />
 </p>
-<div
-  data-iframe-width="150"
-  data-iframe-height="270"
-  data-share-badge-id="d8bb218b-be9e-4f93-be2d-5a1968a696e0"
-  data-share-badge-host="https://www.credly.com">
-</div>
+
 
 <script async src="https://cdn.credly.com/assets/utilities/embed.js"></script>
 ---
