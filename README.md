@@ -28,13 +28,6 @@ Built an <a href="https://github.com/wasvaibhav/AI-Powered-TBI">AI-powered crop 
 
 ---
 
-## 🏆 Achievements & Certifications
-
-- NASA International Space Apps Challenge participant
-- Hackshastra (Unstop), national-level coding competition, Sep 2025
-- Deloitte Australia Data Analytics Job Simulation (Forage), Jun 2025
-
----
 
 ## 🚀 Tech Stack
 
