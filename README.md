@@ -1,13 +1,38 @@
-<h1 align="center">Hi 👋, I'm Vaibhav Kaira</h1>
-<h3 align="center">Python Developer | AI/ML & Backend</h3>
+<h1 align="center">Hi 👋, I'm Vaibhav Singh Kaira</h1>
+<h3 align="center">AI Trainer at Handshake AI | Python Developer | Building toward AI/ML Engineering</h3>
 
 <p align="center">
-  B.Tech CSE student at Graphic Era Hill University, Dehradun. I mostly work in <strong>Python</strong> and like building practical AI and backend projects.
+  <a href="https://www.linkedin.com/in/vaibhavsinghkaira/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/wasvaibhav"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-- 🔭 Intern at TBI GEU, building an <a href="https://github.com/wasvaibhav/AI-Powered-TBI">AI-powered crop advisory chatbot</a>
-- 🌱 Working toward ML/AI engineering
+<p align="center">
+  B.Tech student at Graphic Era Hill University. I work mostly in <strong>Python</strong> and like building practical AI and backend projects.
+</p>
+
+- 🤖 AI Trainer (Coding & Terminal Benchmarking) at **Handshake AI**, writing terminal coding tasks that make AI models fail and documenting why they break
+- 🌱 Learning AI, ML and DSA, open to internships and collaboration
 - 🎤 President of my college MUN club
+
+---
+
+## 💼 Experience
+
+**AI Trainer (Coding & Terminal Benchmarking)** · Handshake AI · Aug 2026 - Present · Remote
+Build task environments and checks, run models in a real terminal, and write up where they fail: wrong commands, missed edge cases, broken multi-step reasoning.
+
+**Software Developer Intern** · Grid Sphere · Sep 2026 · Noida
+
+**AI-Assisted Full Stack Web Development Intern** · TBI GEU · Jun 2026 - Jul 2026
+Built an <a href="https://github.com/wasvaibhav/AI-Powered-TBI">AI-powered crop advisory chatbot</a>.
+
+---
+
+## 🏆 Achievements & Certifications
+
+- NASA International Space Apps Challenge participant
+- Hackshastra (Unstop), national-level coding competition, Sep 2025
+- Deloitte Australia Data Analytics Job Simulation (Forage), Jun 2025
 
 ---
 
@@ -18,6 +43,7 @@
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img alt="Bash" src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -48,6 +74,7 @@
 <p>
   <img alt="Git" src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900"/>
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
