@@ -12,7 +12,6 @@
 
 - 🤖 AI Trainer (Coding & Terminal Benchmarking) at **Handshake AI**, writing terminal coding tasks that make AI models fail and documenting why they break
 - 🌱 Learning AI, ML and DSA, open to internships and collaboration
-- 🎤 President of my college MUN club
 
 ---
 
